@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning: some skills on thm, along with python
 - 💞️ I’m looking to collaborate on: any project that accepts beginners
 - 📫 How to reach me: discord, or perhaps emailing me
-- mostly just doing random projects and messing around with github, nothing really important
-- soon i may start working on other projects but for now, not yet. 
+- i am going to find other projects i can work on
 
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
