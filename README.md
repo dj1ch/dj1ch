@@ -1,9 +1,3 @@
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
 
 [![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007)
