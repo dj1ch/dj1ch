@@ -1,3 +1,7 @@
+[![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch)](https://github.com/yushi1007)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&layout=compact)](https://github.com/yushi1007)
+
 - 👋 Hi, I’m @dj1ch
 - 👀 I’m interested in: cybersec, programming, etc
 - 🌱 I’m currently learning: some skills on thm, along with python
