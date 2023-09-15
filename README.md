@@ -5,6 +5,18 @@
 #### Hello, I'm dj1ch,
 but you can call me ditch or dj(i kinda slammed by keyboard making this username).
 
+## Projects I am working on...
+- Pwnagotchi manaul install script (for those who need it)
+- An html website that is supposed to show the hw bulletin. The original website isn't the best on anyone's eyes.
+- Other stuff...
+
+##
+
+### Note:
+School is making me busy rn, I am not always online.
+
+###
+
 ### Some stats:
 [![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007) 
 
