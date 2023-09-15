@@ -1,4 +1,4 @@
-<img align="right" width="600" height="200" src="https://github.com/dj1ch/dj1ch/blob/main/Add%20a%20subheading.png">
+<img align="center" width="600" height="200" src="https://github.com/dj1ch/dj1ch/blob/main/Add%20a%20subheading.png">
 
 [![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007) 
 
