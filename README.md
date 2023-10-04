@@ -30,16 +30,16 @@ but you can call me ditch or dj(i kinda slammed by keyboard making this username
 
 ### Some stats:
 
-![tryhackme stats](https://raw.githubusercontent.com/dj1ch/dj1ch/master/assets/thm_propic.png)
+![tryhackme stats](<script src="https://tryhackme.com/badge/1788655"></script>)
 
-[![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007) 
+[![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark)](https://github.com/yushi1007)
 
 
 
 ### Note:
-School is making me less available, I am not always online. Because of this, many of my projects are not tended to/actively maintained. This includes the html-shitpost, pwnagotchi-for-pi4, and many others. 
+School is making me less available, I am not always online. Because of this, many of my projects are not tended to/actively maintained. This includes the html-shitpost, pwnagotchi-for-pi4, and many others.
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
