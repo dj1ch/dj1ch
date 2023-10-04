@@ -29,6 +29,8 @@ but you can call me ditch or dj(i kinda slammed by keyboard making this username
 - Other stuff...
 
 ### Some stats:
+
+
 [![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark)](https://github.com/yushi1007)
