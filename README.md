@@ -30,7 +30,7 @@ but you can call me ditch or dj(i kinda slammed by keyboard making this username
 
 ### Some stats:
 
-![tryhackme stats](<script src="https://tryhackme.com/badge/1788655"></script>)
+<script src="https://tryhackme.com/badge/1788655"></script>
 
 [![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007)
 
