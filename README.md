@@ -1,8 +1,7 @@
+## Hello 👋 ...
 <p align="center">
   <img width="600" height="200" src="https://github.com/dj1ch/dj1ch/blob/main/Add%20a%20subheading.png">
 </p>
-
-## Hello, I'm dj1ch,
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -21,7 +20,7 @@
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
-but you can call me ditch or dj(i kinda slammed by keyboard making this username).
+I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username).
 
 ## Projects I am working on...
 - Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico (main focus right now)
@@ -39,7 +38,7 @@ but you can call me ditch or dj(i kinda slammed by keyboard making this username
 
 
 ### Note:
-School is making me less available, I am not always online. Because of this, many of my projects are not tended to/actively maintained. This includes the html-shitpost, pwnagotchi-for-pi4, and many others.
+School is making me less and less available, I am not always online. Because of this, many of my projects are not tended to/actively maintained. This includes the html-shitpost, pwnagotchi-for-pi4, and many others.
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
