@@ -1,7 +1,7 @@
 ## Hello 👋 ...
 
 <p align="center">
-  <img width="900" height="250" src="https://github.com/dj1ch/dj1ch/blob/main/Add%20a%20subheading.png">
+  <img width="900" height="225" src="https://github.com/dj1ch/dj1ch/blob/main/Add%20a%20subheading.png">
 </p>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
