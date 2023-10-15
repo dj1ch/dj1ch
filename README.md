@@ -33,9 +33,9 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
-[![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/yushi1007)
+[![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/dj1ch)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark)](https://github.com/dj1ch)
 
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
