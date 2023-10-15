@@ -1,4 +1,4 @@
-## Hello 👋 ...
+## Hello 👋
 
 <p align="center">
   <img width="900" height="250" src="https://github.com/dj1ch/dj1ch/blob/main/Add%20a%20subheading.png">
@@ -22,14 +22,14 @@
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
+#### Portfolio: `https://dj1ch.github.com/dj1ch-portfolio`
+
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username).
 
 ## Projects I am working on...
 - Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico (main focus right now)
 - An html website that is supposed to show the hw bulletin. The original website isn't the best on anyone's eyes.
-- Other stuff...
-
-### Some stats:
+- My portfolio website.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
@@ -37,10 +37,6 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark)](https://github.com/yushi1007)
 
-
-
-### Note:
-School is making me less and less available, I am not always online. Because of this, many of my projects are not tended to/actively maintained. This includes the html-shitpost, pwnagotchi-for-pi4, and many others.
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
