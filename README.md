@@ -22,7 +22,7 @@
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
-## [Portfolio](https://dj1ch.github.io)
+# [Portfolio](https://dj1ch.github.io)
 
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username).
 
