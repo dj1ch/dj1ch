@@ -37,7 +37,7 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark)](https://github.com/dj1ch)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dj1ch&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dj1ch&hide_longest_streak=true&theme=dark)](https://git.io/streak-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
