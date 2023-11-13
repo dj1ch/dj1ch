@@ -28,7 +28,6 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 
 ## Projects I am working on...
 - Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico/esp8266 (main focus right now)
-- An html website that is supposed to show the hw bulletin. The original website isn't the best on anyone's eyes.
 - My portfolio website.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
