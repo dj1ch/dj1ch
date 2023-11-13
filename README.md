@@ -28,7 +28,10 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 
 ## Projects I am working on...
 - Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico/esp8266 (main focus right now)
+- The Eupnea project website.
 - My portfolio website.
+- A cool fork of the pico-ducky, with mouse support
+- Skid-attack, a python script that will brick a skid's computer
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
