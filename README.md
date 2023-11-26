@@ -38,7 +38,7 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 
 [![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/dj1ch)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&exclude_repo=dj1ch.github.io&size_weight=0.5&count_weight=0.5)](https://github.com/dj1ch)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&exclude_repo=dj1ch.github.io,pwnagotchi-for-pi4&size_weight=0.5&count_weight=0.5)](https://github.com/dj1ch)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
 
