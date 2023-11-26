@@ -22,7 +22,7 @@
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
-# [Portfolio](https://dj1ch.github.io)
+# [Click here for my portfolio!](https://dj1ch.github.io)
 
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username).
 
@@ -32,7 +32,7 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 - My portfolio website.
 - A cool fork of the pico-ducky, with mouse support
 - Skid attack, a python script that will brick a skid's computer
-- Pico honeypot, a honeypot that pretends to be a debian linux server
+- Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
