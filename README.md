@@ -33,7 +33,7 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 - A cool fork of the pico-ducky, with mouse support
 - Skid attack, a python script that will brick a skid's computer
 - Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
-- Small Catch, a raspberry pi pico bad AP
+- Small Catch, a raspberry pi pico w bad AP, with faces kind of like a pwnagotchi
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
