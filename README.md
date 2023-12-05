@@ -27,7 +27,8 @@
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username).
 
 ## Projects I am working on...
-- Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico/esp8266 (main focus right now)
+I don't maintain all of these at the same time, but I always make time for at least one of these projects
+- Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico/esp8266
 - The Eupnea project website.
 - My portfolio website.
 - A cool fork of the pico-ducky, with mouse support
