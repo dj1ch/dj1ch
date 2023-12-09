@@ -32,9 +32,9 @@ I don't maintain all of these at the same time, but I always make time for at le
 - Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico/esp8266
 - The Eupnea project website.
 - My portfolio website.
-- A cool fork of the pico-ducky, with mouse support
+- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use!
 
-## Unmaintained/Will return to later
+## Unmaintained/development paused
 - Skid attack, a python script that will brick a skid's computer
 - Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
 - Small Catch, a raspberry pi pico w bad AP, with faces kind of like a pwnagotchi
