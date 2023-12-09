@@ -1,4 +1,4 @@
-## Hello 👋
+## 👋 Hello everyone! 
 
 <p align="center">
   <img src="https://github.com/dj1ch/dj1ch/blob/main/Add%20a%20subheading.png">
