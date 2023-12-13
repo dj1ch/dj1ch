@@ -24,7 +24,7 @@
 
 # [Click here for my portfolio!](https://dj1ch.github.io)
 
-I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username).
+I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username). I'm pretty active, so feel free to reach put to me whenever possible.
 
 ## Projects I am working on...
 I don't maintain all of these at the same time, but I always make time for at least one of these projects. Feel free to contact me if you want help on a project like one of these! I am able to code in multiple coding langauges. 
