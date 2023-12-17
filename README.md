@@ -23,6 +23,7 @@
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
 # [Click here for my portfolio!](https://dj1ch.github.io)
+**Also, to that person who doubted that I could code, here's my proof.**
 
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username). I'm pretty active, so feel free to reach out to me whenever possible.
 
