@@ -34,8 +34,6 @@ I don't maintain all of these at the same time, but I always make time for at le
 - The Eupnea project website.
 - My portfolio website.
 - A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use!
-- Media nest, a media center for older devices making things a little more usable. We await for the repos to be made public.
-- Small Catch, a raspberry pi pico w bad AP, with faces kind of like a pwnagotchi.
 
 ## Unmaintained/development paused...
 - Skid attack, a python script that will brick a skid's computer
