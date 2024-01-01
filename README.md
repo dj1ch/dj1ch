@@ -39,6 +39,7 @@ I don't maintain all of these at the same time, but I always make time for at le
 - Skid attack, a python script that will brick a skid's computer
 - Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
 
+<script src="https://tryhackme.com/badge/1788655"></script>
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
 [![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/dj1ch)
