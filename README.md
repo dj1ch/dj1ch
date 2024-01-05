@@ -49,7 +49,7 @@ I don't maintain all of these at the same time, but I always make time for at le
 
 [![dj1ch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact)](https://github.com/dj1ch)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dj1ch&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
