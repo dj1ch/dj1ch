@@ -41,14 +41,14 @@ I don't maintain all of these at the same time, but I always make time for at le
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
-  <a href="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark"></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact"></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" alt="langs"></a>
 </p>
 
 <p align="center">
-  <a href="https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true"></a>
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact"></a>
-  <a href="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar"></a>
+  <a href="https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true" alt="streak"></a>
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact" alt="contrgraph"></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar" alt="trophy"></a>
 </p>
 
 <!---
