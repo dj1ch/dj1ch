@@ -39,17 +39,17 @@ I don't maintain all of these at the same time, but I always make time for at le
 - Skid attack, a python script that will brick a skid's computer
 - Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
 
+<p align="center">
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
+<a href="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark"></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact"></a>
+</p>
 
-[![dj1ch's github stats](https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark)](https://github.com/dj1ch)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact)](https://github.com/dj1ch)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
-
-[![dj1ch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact)](https://github.com/dj1ch)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+<a href="https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true"></a>
+<a href="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact"></a>
+<a href="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar"></a>
+</p>
 
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
