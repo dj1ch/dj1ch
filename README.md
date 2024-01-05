@@ -47,9 +47,9 @@ I don't maintain all of these at the same time, but I always make time for at le
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true)](https://git.io/streak-stats)
 
-[![dj1ch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=compact)](https://github.com/dj1ch)
+[![dj1ch's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact)](https://github.com/dj1ch)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dj1ch)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dj1ch&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
