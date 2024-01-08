@@ -44,11 +44,11 @@ I don't maintain all of these at the same time, but I always make time for at le
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></img>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" alt="langs"></img>
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></img>
   <img src="https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true" alt="streak"></img>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact" alt="contrgraph"></img>
   <img src="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar" alt="trophy"></img>
