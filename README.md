@@ -41,8 +41,8 @@ I don't maintain all of these at the same time, but I always make time for at le
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
-  <a href="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" alt="langs"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" alt="langs"></img>
 </p>
 
 <p align="center">
