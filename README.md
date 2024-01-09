@@ -33,7 +33,7 @@ I don't maintain all of these at the same time, but I always make time for at le
 - Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico/esp8266
 - The Eupnea project website.
 - My portfolio website.
-- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use!
+- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me
 
 ## Unmaintained/development paused...
 - Skid attack, a python script that will brick a skid's computer
