@@ -39,6 +39,7 @@ I don't maintain all of these at the same time, but I always make time for at le
 - Skid attack, a python script that will brick a skid's computer
 - Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
 
+**Small-Catch and Media-Nest are deleted projects. I do not have access to the old code. It was not archived either.**
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 </p>
