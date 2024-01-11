@@ -22,18 +22,17 @@
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
 
-# [Click here for my portfolio!](https://dj1ch.github.io)
-**Also, to that person who doubted that I could code, here's my proof.**
+## [Click here for my portfolio!](https://dj1ch.github.io)
 
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username). I'm pretty active, so feel free to reach out to me whenever possible.
 
 ## Projects I am working on...
 I don't maintain all of these at the same time, but I always make time for at least one of these projects. Feel free to contact me if you want help on a project like one of these! I am able to code in multiple coding langauges. 
 
-- Minigotchi, a pwnagotchi somewhat loaded on a raspberry pi pico/esp8266
+- Minigotchi, a pwnagotchi somewhat loaded on an ESP8266.
 - The Eupnea project website.
-- My portfolio website.
-- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me
+- My (new) portfolio website.
+- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me. I plan on making my own version of this. 
 
 ## Unmaintained/development paused...
 - Skid attack, a python script that will brick a skid's computer
