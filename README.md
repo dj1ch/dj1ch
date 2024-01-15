@@ -49,7 +49,7 @@ I don't maintain all of these at the same time, but I always make time for at le
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></img>
-  <img src="https://streak-stats.demolab.com?user=dj1ch&theme=dark&hide_longest_streak=true" alt="streak"></img>
+  <img src="https://streak-stats.demolab.com?user=dj1ch&theme=dark" alt="streak"></img>
 </p>
 
 <p align="center">
