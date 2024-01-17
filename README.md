@@ -32,11 +32,11 @@ I don't maintain all of these at the same time, but I always make time for at le
 **Currently sick and unable to work on these projects**
 
 - Minigotchi, a pwnagotchi somewhat loaded on an ESP8266.
-- The Eupnea project website.
-- My (new) portfolio website.
-- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me. I plan on making my own version of this. 
+- Another Raspberry Pi Pico project on the way!
 
 ## Unmaintained/development paused...
+- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me. I plan on making my own version of this. 
+- My (new) portfolio website.
 - Skid attack, a python script that will brick a skid's computer
 - Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
 
