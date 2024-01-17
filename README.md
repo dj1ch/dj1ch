@@ -27,9 +27,7 @@
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username). I'm pretty active, so feel free to reach out to me whenever possible.
 
 ## Projects I am working on...
-I don't maintain all of these at the same time, but I always make time for at least one of these projects. Feel free to contact me if you want help on a project like one of these! I am able to code in multiple coding langauges. 
-
-**Currently sick and unable to work on these projects**
+I don't maintain all of these at the same time, but at this point in time for me I will not have as much time for these projects like I used too. I'll work on minigorchi until it is ready, an dfor my other projects push put my final bug patches before I become less active and focus more on my schooling and potential future career. It's looking bright and I don't want to miss an opportunity such as this. Thanks again for all the opportunities Github has given me.
 
 - Minigotchi, a pwnagotchi somewhat loaded on an ESP8266.
 - Another Raspberry Pi Pico project on the way!
