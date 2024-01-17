@@ -29,6 +29,8 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 ## Projects I am working on...
 I don't maintain all of these at the same time, but I always make time for at least one of these projects. Feel free to contact me if you want help on a project like one of these! I am able to code in multiple coding langauges. 
 
+**Currently sick and unable to work on these projects**
+
 - Minigotchi, a pwnagotchi somewhat loaded on an ESP8266.
 - The Eupnea project website.
 - My (new) portfolio website.
