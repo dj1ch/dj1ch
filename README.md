@@ -46,7 +46,7 @@ I don't maintain all of these at the same time, but at this point in time for me
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=1&count_weight=0&layout=compact" alt="langs"></img>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" alt="langs"></img>
 </p>
 
 <p align="center">
