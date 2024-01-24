@@ -31,13 +31,13 @@ I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making th
 ## Projects I am working on...
 I don't maintain all of these at the same time, but at this point in time for me I will not have as much time for these projects like I used too. I'll work on minigotchi until it is ready, and for my other projects push put my final bug patches before I become less active and focus more on my schooling and potential future career. It's looking bright and I don't want to miss an opportunity such as this. Thanks again for all the opportunities Github has given me. It's been fun coding with everyone!
 
-- Minigotchi, a pwnagotchi somewhat loaded on an ESP8266.
-- Another Raspberry Pi Pico project on the way!
+- Minigotchi, a pwnagotchi-like ESP8266. This is my most popular project, I highly recommend you check it out, I'll be putting out a new release soon. 
+- Another Raspberry Pi Pico project on the way(To be added soon)!
 
 ## Unmaintained/development paused...
 - A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me. I plan on making my own version of this. 
 - My (new) portfolio website.
-- Skid attack, a python script that will brick a skid's computer
+- Skid attack, a python script that will brick a skid's computer. It's still kind of broken at the moment but it does have a clear purpose. 
 - Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
 
 **Small-Catch and Media-Nest are deleted projects. ~~I do not have access to the old code. It was not archived either.~~ [nuh uh](https://github.com/dj1ch/Small-Catch-Archive)**
