@@ -56,7 +56,7 @@ I don't maintain all of these at the same time, but at this point in time for me
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact" alt="contrgraph"></img>
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch"></img>
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch" alt="morestatsig"></img>
   <img src="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar" alt="trophy"></img>
 </p>
 
