@@ -50,18 +50,18 @@ I don't maintain all of these at the same time, but at this point in time for me
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" alt="langs"></img>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" --alt="langs"></img>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></img>
-  <img src="https://streak-stats.demolab.com?user=dj1ch&theme=dark" alt="streak"></img>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&layout=compact&theme=dark" alt="stats"></img> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=dj1ch&theme=dark" alt="streak"></img> -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact" alt="contrgraph"></img>
+  <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact" alt="contrgraph"></img> -->
   <img src="https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch" alt="morestatsig"></img>
-  <img src="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar" alt="trophy"></img>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar" alt="trophy"></img> -->
 </p>
 
 <!---
