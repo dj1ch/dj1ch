@@ -60,10 +60,12 @@ I don't maintain all of these at the same time, but at this point in time for me
 
 <p align="center">
   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=dj1ch&theme=github-compact" alt="contrgraph"></img> -->
-  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch" alt="morestatsig"></img>
+  <!-- <img src="https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch" alt="morestatsig"></img> -->
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar" alt="trophy"></img> -->
 </p>
 
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch)
+![dj1ch github-trophies](https://stats.dooboo.io/api/github-trophies?login=dj1ch)
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
