@@ -45,9 +45,8 @@ I don't maintain all of these at the same time, but at this point in time for me
 **rip i got removed from eupnea**
 
 **Small-Catch and Media-Nest are deleted projects. Most likely Eupnea will be deleted too. ~~I do not have access to the old code. It was not archived either.~~ [nuh uh](https://github.com/dj1ch/Small-Catch-Archive)**
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
-</p>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&hide=javascript,scss&size_weight=0&count_weight=1&layout=compact" --alt="langs"></img>
@@ -64,8 +63,10 @@ I don't maintain all of these at the same time, but at this point in time for me
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=dj1ch&theme=onestar" alt="trophy"></img> -->
 </p>
 
-![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch)
+[![Discord Presence](https://lanyard.cnrad.dev/api/871252436038320209)](https://discord.com/users/871252436038320209)
 ![dj1ch github-trophies](https://stats.dooboo.io/api/github-trophies?login=dj1ch)
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=dj1ch)
+
 <!---
 dj1ch/dj1ch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
