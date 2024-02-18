@@ -34,7 +34,7 @@ I don't maintain all of these at the same time, but at this point in time for me
 **In order of importance:**
 
 - Minigotchi, a pwnagotchi-like ESP8266. This is my most popular project, I highly recommend you check it out, I'll be putting out a new release soon. 
-- Pico-key, a proof of concept showcasing keystroke injection on a target machine to create an SSH server for that machine, allowing an attacker to perform attacks on a device. 
+- Pico-key, a proof of concept which I plan on changing
 
 ## Unmaintained/development paused...
 - A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me. I plan on making my own version of this. 
