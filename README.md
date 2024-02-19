@@ -36,16 +36,6 @@ I don't maintain all of these at the same time, but at this point in time for me
 - Minigotchi, a pwnagotchi-like ESP8266. This is my most popular project, I highly recommend you check it out, I'll be putting out a new release soon. 
 - Pico-key, a proof of concept which I plan on changing
 
-## Unmaintained/development paused...
-- A cool fork of the pico-ducky, with mouse support. I also added some scripts for these for you to use! Most of them are written by me. I plan on making my own version of this. 
-- My (new) portfolio website.
-- Skid attack, a python script that will brick a skid's computer. It's still kind of broken at the moment but it does have a clear purpose. 
-- Pico honeypot, a honeypot that pretends to be a debian linux server, with the help of a container
-
-**rip i got removed from eupnea**
-
-**Small-Catch and Media-Nest are deleted projects. Most likely Eupnea will be deleted too. ~~I do not have access to the old code. It was not archived either.~~ [nuh uh](https://github.com/dj1ch/Small-Catch-Archive)**
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
 <p align="center">
