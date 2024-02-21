@@ -28,6 +28,8 @@
 
 I'm dj1ch, but you can call me ditch or dj(i kinda slammed by keyboard making this username). I'm pretty active, so feel free to reach out to me whenever possible.
 
+**My account has recently been marked as spam. My recent followers or who I'm following, PR's, etc are no longer visible. I am yet to have my account fixed.**
+
 ## Projects I am working on...
 I don't maintain all of these at the same time, but at this point in time for me I will not have as much time for these projects like I used too. I'll work on minigotchi until it is ready, and for my other projects push put my final bug patches before I become less active and focus more on my schooling and potential future career. It's looking bright and I don't want to miss an opportunity such as this. Thanks again for all the opportunities Github has given me. It's been fun coding with everyone! 
 
