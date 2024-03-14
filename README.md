@@ -11,10 +11,6 @@
 
 <p></p>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
-
-<p></p>
-
 ```
 
 14 y/o on the younger side of the programming and cybersecurity community.
@@ -33,6 +29,14 @@ Not spam either.
 Maybe this can get fixed soon...?
 
 ```
+
+<p></p>
+
+
+
+<p></p>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
 
 <p></p>
 
