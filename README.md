@@ -28,7 +28,9 @@ Currently persevering through life or whatever.
 
 ```
 
-And yes, I'm still online. Not spam either. Maybe this can get fixed soon...?
+And yes, I'm still online.
+Not spam either.
+Maybe this can get fixed soon...?
 
 ```
 
