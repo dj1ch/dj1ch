@@ -14,7 +14,7 @@
 ```
 
 14 y/o on the younger side of the programming and cybersecurity community.
-I love the idea of universal configurations, consistency, and cleanliness.
+I love embedded systems and the idea of universal configurations, consistency, and cleanliness in programming.
 Working on minigotchi, and pico-key, be sure to check those out!
 Currently persevering through life or whatever.
 
