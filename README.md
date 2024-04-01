@@ -13,11 +13,10 @@
 <p></p>
 
 - 14 y/o on the younger side of the programming and cybersecurity community.
-- Codes in: C/C++, Python, Bash, HTML, CSS, Markdown, and a little bit of Lua.
+- Codes in: C/C++, Python, Bash, HTML, CSS, Markdown, Nix, and a little bit of Lua.
 - I love the idea of universal configurations, consistency, and cleanliness in programming.
 - Embedded systems are also cool. Networking sucks (sometimes). 
 - Working on minigotchi, and pico-key, be sure to check those out!
-- Currently persevering through life or whatever.
 
 <p></p>
 
