@@ -1,36 +1,20 @@
-```
-      _     _   __          _     
-     | |   (_) /_ |        | |    
-   __| |    _   | |   ___  | |__  
-  / _` |   | |  | |  / __| | '_ \ 
- | (_| |   | |  | | | (__  | | | |
-  \__,_|   | |  |_|  \___| |_| |_|
-          _/ |                    
-         |__/                     
-```
-<p></p>
+<h1 align=center>👋 Hi, I’m dj1ch</h1>
 
-<p></p>
+<h3 align=center>14 y/o embedded systems and frontend developer</h3>
 
-- 14 y/o on the younger side of the programming and cybersecurity community.
-- Codes in: C/C++, Python, Bash, HTML, CSS, Markdown, Nix, and a little bit of Lua.
-- I love the idea of universal configurations, consistency, and cleanliness in programming.
-- Embedded systems are also cool. Networking sucks (sometimes). 
-- Working on minigotchi, and pico-key, be sure to check those out!
+## 🔎About Me:
+- 👀 I’m interested in: Networking, Embedded systems, and Cybersecurity
+- 🌱 I’m currently learning: Additional Cybersecurity skills
+- 📫 How to reach me: Emailing tg.1ch0712@gmail.com, [Discord](https://discord.com/users/871252436038320209)
 
-<p></p>
+## 📊GitHub Stats:
+![dj1ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj1ch&theme=dark&hide_border=true)
 
-<p></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&size_weight=1&count_weight=0&exclude_repo=dj1ch.github.io,configs&layout=compact&hide_border=true)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
+![commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dj1ch&theme=dark)
 
-<p></p>
-
-<p></p>
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/871252436038320209)](https://discord.com/users/871252436038320209)
-
-<p></p>
+![summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dj1ch&theme=dark)
 
 <!--
 ![dj1ch github-trophies](https://stats.dooboo.io/api/github-trophies?login=dj1ch)
