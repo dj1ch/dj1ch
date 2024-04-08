@@ -10,7 +10,7 @@
 ## 📊GitHub Stats:
 ![dj1ch's GitHub stats](https://github-readme-stats.vercel.app/api?username=dj1ch&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&size_weight=1&count_weight=0&exclude_repo=dj1ch.github.io,configs&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=dark&size_weight=1&count_weight=0&exclude_repo=dj1ch.github.io,configs,mr-kushi-website-but-better&layout=compact&hide_order=true)
 
 ![commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dj1ch&theme=dark)
 
