@@ -2,7 +2,13 @@
 
 <h3 align=center>14 y/o embedded systems and frontend developer</h3>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=github_dark&size_weight=1&count_weight=0&exclude_repo=mr-kushi-website-but-better&layout=compact&hide_border=true" />
+</p>
+
 ## 🔎About Me:
+
 - 👀 I’m interested in: Programming, Networking, Embedded systems, and Cybersecurity
 - 🌱 I’m currently learning: Additional Cybersecurity skills
 - 📫 How to reach me: Emailing tg.1ch0712@gmail.com, [Discord](https://discord.com/users/871252436038320209)
@@ -40,11 +46,6 @@
 -->
 
 ## 📊GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&theme=github_dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=github_dark&size_weight=1&count_weight=0&exclude_repo=mr-kushi-website-but-better&layout=compact&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dj1ch&theme=github_dark&utcOffset=8" />
