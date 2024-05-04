@@ -7,7 +7,13 @@
 - 🌱 I’m currently learning: Additional Cybersecurity skills
 - 📫 How to reach me: Emailing tg.1ch0712@gmail.com, [Discord](https://discord.com/users/871252436038320209)
 
-## 💻Languages/tools: 
+## 💻Languages/tools:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vue,astro,nix,bash,md&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,github,git,cmake,vscode,visualstudio,atom,raspberrypi,linux,kali&theme=dark&perline=10" />
+</p>
+<!--
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50" height="50" />
@@ -31,6 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" height="50" />        
 </p>
+-->
 
 ## 📊GitHub Stats:
 
