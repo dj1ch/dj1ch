@@ -7,13 +7,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=github_dark&size_weight=1&count_weight=0&exclude_repo=mr-kushi-website-but-better&layout=compact&hide_border=true" />
 </p>
 
-## 🔎About Me:
+## 🔎 About Me:
 
 - 👀 I’m interested in: Programming, Networking, Embedded systems, and Cybersecurity
 - 🌱 I’m currently learning: Additional Cybersecurity skills
 - 📫 How to reach me: Emailing tg.1ch0712@gmail.com, [Discord](https://discord.com/users/871252436038320209)
 
-## 💻Languages/tools:
+## 💻 Languages/tools:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vue,astro,nix,bash,md&theme=dark&perline=10" />
@@ -45,7 +45,11 @@
 </p>
 -->
 
-## 📊GitHub Stats:
+## 📊 Statistics:
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
+</p>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dj1ch&theme=github_dark&utcOffset=8" />
