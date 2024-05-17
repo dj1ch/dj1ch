@@ -1,6 +1,6 @@
 <h1 align=center>👋 Hi, I’m dj1ch</h1>
 
-<h3 align=center>14 y/o embedded systems and frontend developer</h3>
+<h3 align=center>14 y/o Embedded Systems and Frontend Developer</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&theme=github_dark&hide_border=true" />
