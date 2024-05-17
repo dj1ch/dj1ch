@@ -7,9 +7,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=github_dark&size_weight=1&count_weight=0&exclude_repo=mr-kushi-website-but-better&layout=compact&hide_border=true" />
 </p>
 
+<!--
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I'm%20cooked...&author=dj1ch%20probably" />
 </p>
+-->
 
 ## 🔎 About Me:
 
@@ -23,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vue,astro,nix,bash,md&theme=dark&perline=10" />
   <img src="https://skillicons.dev/icons?i=docker,github,git,cmake,vscode,visualstudio,atom,raspberrypi,linux,kali&theme=dark&perline=10" />
 </p>
+
 <!--
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50" height="50" />
