@@ -55,7 +55,7 @@
 ## 📊 Statistics:
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tg.1ch0712.png" alt="thm">
 </p>
 
 <p align="center">
