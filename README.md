@@ -16,7 +16,7 @@
 ## 🔎 About Me:
 
 - 👀 I’m interested in: Programming, Networking, Embedded systems, and Cybersecurity
-- 🌱 I’m currently learning: Additional Cybersecurity skills
+- 🌱 I’m currently learning: Additional Cybersecurity skills and other programming languages
 - 📫 How to reach me: Emailing tg.1ch0712@gmail.com, [Discord](https://discord.com/users/871252436038320209)
 
 ## 💻 Languages/tools:
