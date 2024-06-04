@@ -3,6 +3,7 @@
 <h3 align=center>14 y/o Embedded Stack Developer</h3>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dj1ch&theme=github_dark&hide_border=true&hide_title=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=github_dark&layout=compact&hide_border=true" />
 </p>
 
