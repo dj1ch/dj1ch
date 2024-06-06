@@ -7,16 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dj1ch&theme=github_dark&layout=compact&hide_border=true&hide_title=false" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I'm%20cooked...&author=dj1ch%20probably" />
-</p>
--->
-
 ## 🔎 About Me:
 
-- 👀 I’m interested in: Programming, Networking, Embedded systems, and Cybersecurity
-- 🌱 I’m currently learning: Additional Cybersecurity skills and other programming languages
+- 👀 I’m interested in: Programming, Firmware development, and Cybersecurity
+- 🌱 I’m currently learning: Java and Golang
 - 📫 How to reach me: Emailing tg.1ch0712@gmail.com, [Discord](https://discord.com/users/871252436038320209)
 
 ## 💻 Languages/tools:
