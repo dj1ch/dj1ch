@@ -10,13 +10,13 @@
 ## 🔎 About Me:
 
 - 👀 I’m interested in: Programming, Firmware development, and Cybersecurity
-- 🌱 I’m currently learning: Java and Golang
+- 🌱 I’m currently learning: Java
 - 📫 How to reach me: Emailing tg.1ch0712@gmail.com, [Discord](https://discord.com/users/871252436038320209)
 
 ## 💻 Languages/tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,vue,astro,nix,bash,md&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,vue,astro,nix,bash,md&theme=dark&perline=10" />
   <img src="https://skillicons.dev/icons?i=docker,github,git,cmake,vscode,visualstudio,atom,raspberrypi,linux,kali&theme=dark&perline=10" />
 </p>
 
