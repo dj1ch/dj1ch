@@ -1,10 +1,10 @@
 <h2>👋 Hi there</h2>
 
 <!--
-<h3>14 y/o Embedded Stack Developer</h3>
+<h3>15 y/o Embedded Stack Developer</h3>
 -->
 
-I'm dj1ch, a 14-year-old developer in the Embedded Stack. 
+I'm dj1ch, a 15-year-old developer in the Embedded Stack. 
 
 At the moment, I enjoy working with single-board computers (SBCs) and microcontrollers, among other small devices. Most of my work involves cybersecurity-related projects because I enjoy hacking hardware. I'm working on the Minigotchi, a port of Pwnagotchi to the ESP8266/ESP32.
 
