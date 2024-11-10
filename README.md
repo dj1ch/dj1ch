@@ -1,3 +1,3 @@
-Taking some time off the grid. Peace out.
+Back from my hiatus.
 
 ![](https://komarev.com/ghpvc/?username=dj1ch)
